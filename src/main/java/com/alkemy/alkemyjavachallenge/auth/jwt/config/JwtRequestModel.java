@@ -2,10 +2,8 @@ package com.alkemy.alkemyjavachallenge.auth.jwt.config;
 
 public class JwtRequestModel {
 
-
     private String username;
     private String password;
-
 
     public JwtRequestModel() {}
 
